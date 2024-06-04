@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trivia La Bienal</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <video autoPlay muted loop id="video-background">
+    <source src="media/bg.mp4" type="video/mp4" />
+    Tu navegador no admite la reproducción de video.
+  </video>
+  <div class="logos-container">
+      <img src="media/logo-ien.png" alt="Logo IEN">
+      <img src="media/logo-bienal.png" alt="Logo Bienal" width="200px">
+  </div>
+  <div class="game-container" id="game-container">
+    <h1 id="main-title">TRIVIENAL</h1>
+    <h1 id="welcome-title" style="display: none;"></h1>
+    <div class="input-container" id="input-container">
+      <input type="text" id="name" placeholder="Nombre">
+      <input type="number" id="edad" placeholder="Edad">
+      <input type="text" id="redSocial" placeholder="Red Social">
+      <button class="add-user-button" id="add-user-button">Agregar Usuario</button>
+    </div>
+    <div class="comenzar">
+      <button class="start-button" id="start-button" style="display: none;">Comenzar</button>
+    </div>
+    <div class="question-container" id="question-container" style="display: none;">
+      <p class="question-number" id="question-number"></p>
+      <p class="question-text" id="question-text"></p>
+      <div class="answer-wrapper" id="answer-wrapper"></div>
+      <p class="score" id="score"></p>
+      <p class="timer" id="timer"></p>
+    </div>
+    <video id="video-bienal" autoplay loop muted>
+      <source src="media/bienal2024.mp4" type="video/mp4">
+      Tu navegador no admite la reproducción de video.
+    </video>
+  </div>
+<script src="script.js"></script>
+</body>
+</html>

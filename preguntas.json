@@ -1,0 +1,492 @@
+[
+  {
+      "category": "Bienal",
+      "correct_answer": "Petre Virgiliu Mogosanu",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Henry Moore", "Fernando Botero", "Alexander Calder"],
+      "question": "¿Quién es el ganador de la Bienal del Chaco 2022?",
+      "type": "multiple"
+  },
+  {
+      "category": "Bienal",
+      "correct_answer": "1988",
+      "difficulty": "fácil",
+      "incorrect_answers": ["1990", "1996", "2000"],
+      "question": "¿Cuando se comenzo a realizar la Bienal del Chaco?",
+      "type": "multiple"
+  },
+  {
+      "category": "Bienal",
+      "correct_answer": "Tobel",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Choe Sodong", "Verena Mayer-Tashc", "Petre Virgiliu Mogosanu"],
+      "question": "¿Quién es el ganador de la Bienal del Chaco 2018?",
+      "type": "multiple"
+  },
+  {
+      "category": "Bienal",
+      "correct_answer": "2",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Todos los años", "3", "4"],
+      "question": "¿Cada cuanto años se realiza la Bienal del Chaco?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "1989",
+      "difficulty": "media",
+      "incorrect_answers": ["1990", "1986", "2000"],
+      "question": "¿Cuando se fundo la Fundación Urunday?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "José Sebastián Eidman",
+      "difficulty": "media",
+      "incorrect_answers": ["Carlos José Cuffia", "Ana María Taiana", "Eugenio Silvio Milani"],
+      "question": "¿Quien es el presidente de la Fundacion Urunday?",
+      "type": "multiple"
+  },
+  {
+    "category": "Bienal",
+    "correct_answer": "Resistencia",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Buenos Aires", "Córdoba", "Rosario"],
+    "question": "¿En qué ciudad se celebra la Bienal del Chaco?",
+    "type": "multiple"
+},
+{
+    "category": "Bienal",
+    "correct_answer": "Argentina",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Brasil", "Chile", "Uruguay"],
+    "question": "¿En qué país se encuentra la Bienal del Chaco?",
+    "type": "multiple"
+},
+{
+    "category": "Bienal",
+    "correct_answer": "Cada dos años",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Cada año", "Cada tres años", "Cada cuatro años"],
+    "question": "¿Con qué frecuencia se celebra la Bienal del Chaco?",
+    "type": "multiple"
+},
+{
+    "category": "Bienal",
+    "correct_answer": "Esculturas",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Pinturas", "Fotografías", "Instalaciones"],
+    "question": "¿Qué tipo de arte se destaca principalmente en la Bienal del Chaco?",
+    "type": "multiple"
+},
+{
+    "category": "Bienal",
+    "correct_answer": "Ganar Premio de Honor",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Exponer su obra", "Impartir talleres", "Participar como voluntario"],
+    "question": "¿Qué reconocimiento puede obtener un artista en la Bienal del Chaco?",
+    "type": "multiple"
+},
+{
+    "category": "Bienal",
+    "correct_answer": "Petre Virgiliu Mogosanu",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Henry Moore", "Fernando Botero", "Alexander Calder"],
+    "question": "¿Quién es el ganador de la Bienal del Chaco 2022?",
+    "type": "multiple"
+},
+{
+    "category": "Bienal",
+    "correct_answer": "Arte contemporáneo",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Arte clásico", "Arte barroco", "Arte renacentista"],
+    "question": "¿Qué estilo de arte se exhibe principalmente en la Bienal del Chaco?",
+    "type": "multiple"
+},
+{
+    "category": "Bienal",
+    "correct_answer": "Obras de artistas locales e internacionales",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Solo obras de artistas argentinos", "Solo obras de artistas internacionales", "Solo obras de artistas latinoamericanos"],
+    "question": "¿Qué tipo de obras se exhiben en la Bienal del Chaco?",
+    "type": "multiple"
+},
+{
+    "category": "Bienal",
+    "correct_answer": "Sí",
+    "difficulty": "fácil",
+    "incorrect_answers": ["No", "A veces", "Depende"],
+    "question": "¿La Bienal del Chaco es un evento gratuito para el público?",
+    "type": "multiple"
+},
+{
+    "category": "Bienal",
+    "correct_answer": "El público en general",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Solo artistas invitados", "Solo críticos de arte", "Solo patrocinadores"],
+    "question": "¿Quién puede asistir a la Bienal del Chaco?",
+    "type": "multiple"
+},
+{
+    "category": "Arte contemporáneo",
+    "correct_answer": "Andy Warhol",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci"],
+    "question": "¿Quién fue el líder del movimiento de arte pop en la década de 1960?",
+    "type": "multiple"
+},
+{
+    "category": "Arte contemporáneo",
+    "correct_answer": "Banksy",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Leonardo da Vinci", "Jackson Pollock", "Frida Kahlo"],
+    "question": "¿Cuál es el nombre del famoso artista callejero británico conocido por su arte urbano provocativo y políticamente cargado?",
+    "type": "multiple"
+},
+{
+    "category": "Arte contemporáneo",
+    "correct_answer": "Jeff Koons",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Salvador Dalí", "Rembrandt", "Michelangelo"],
+    "question": "¿Quién es conocido por sus esculturas inflables gigantes que representan objetos cotidianos?",
+    "type": "multiple"
+},
+{
+    "category": "Arte contemporáneo",
+    "correct_answer": "Yayoi Kusama",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Georgia O'Keeffe", "Frida Kahlo", "Louise Bourgeois"],
+    "question": "¿Quién es la famosa artista japonesa conocida por sus instalaciones de lunares y espejos?",
+    "type": "multiple"
+},
+{
+    "category": "Arte contemporáneo",
+    "correct_answer": "Damien Hirst",
+    "difficulty": "fácil",
+    "incorrect_answers": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh"],
+    "question": "¿Quién es conocido por sus controvertidas obras de arte relacionadas con la muerte y la medicina?",
+    "type": "multiple"
+},
+  {
+      "category": "Deportes",
+      "correct_answer": "Diego Maradona",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Pelé", "Lionel Messi", "Garrincha"],
+      "question": "¿Qué jugador argentino anotó el gol conocido como la 'Mano de Dios'?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Real Madrid",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Barcelona", "Atlético Madrid", "Valencia"],
+      "question": "¿Qué club ha ganado más títulos de la Liga de Campeones de la UEFA?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Kylian Mbappé",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Neymar", "Antoine Griezmann", "Paul Pogba"],
+      "question": "¿Quién anotó un hat-trick para Francia en la final de la Copa del Mundo 2018?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Francia",
+      "difficulty": "media",
+      "incorrect_answers": ["Alemania", "Brasil", "Argentina"],
+      "question": "¿Qué país ganó la Copa del Mundo de 1998?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "España",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Alemania", "Italia", "Portugal"],
+      "question": "¿Qué país ganó la Copa del Mundo de 2010?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Zinedine Zidane",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Thierry Henry", "Patrick Vieira", "David Beckham"],
+      "question": "¿Quién anotó dos goles para Francia en la final de la Copa del Mundo de 1998?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Marco van Basten",
+      "difficulty": "media",
+      "incorrect_answers": ["Ruud Gullit", "Johan Cruyff", "Frank Rijkaard"],
+      "question": "¿Qué jugador holandés es famoso por su impresionante volea en la final del Campeonato de Europa de 1988?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Manchester United",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Liverpool", "Arsenal", "Chelsea"],
+      "question": "¿Qué equipo ganó el triplete en 1999?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Argentina",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Brasil", "Alemania", "Francia"],
+      "question": "¿Para qué país jugó Lionel Messi en el fútbol internacional?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "George Best",
+      "difficulty": "media",
+      "incorrect_answers": ["Bobby Charlton", "Eric Cantona", "Dennis Law"],
+      "question": "¿Qué jugador norirlandés era conocido por sus habilidades en el Manchester United?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Alemania",
+      "difficulty": "media",
+      "incorrect_answers": ["Brasil", "Italia", "Francia"],
+      "question": "¿Qué país ganó la Copa del Mundo de 2014?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "1970",
+      "difficulty": "fácil",
+      "incorrect_answers": ["1966", "1974", "1982"],
+      "question": "¿En qué año ganó Brasil su tercera Copa del Mundo?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Ronaldo Nazário",
+      "difficulty": "media",
+      "incorrect_answers": ["Romario", "Ronaldinho", "Kaká"],
+      "question": "¿Qué jugador brasileño es a menudo conocido como 'El Fenómeno'?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Juventus",
+      "difficulty": "media",
+      "incorrect_answers": ["AC Milan", "Inter Milan", "Roma"],
+      "question": "¿Qué club italiano es conocido como 'La Vecchia Signora'?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "2006",
+      "difficulty": "fácil",
+      "incorrect_answers": ["1998", "2010", "2002"],
+      "question": "¿En qué año ganó Italia su cuarta Copa del Mundo?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Messi",
+      "difficulty": "media",
+      "incorrect_answers": ["Cristiano Ronaldo", "Neymar", "Luis Suárez"],
+      "question": "¿Quién anotó más goles en La Liga 2018-19?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "David Beckham",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Wayne Rooney", "Paul Scholes", "Ryan Giggs"],
+      "question": "¿Qué famoso jugador inglés fue conocido por su habilidad en los tiros libres?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Manchester City",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Liverpool", "Chelsea", "Arsenal"],
+      "question": "¿Qué equipo ganó la Premier League en 2018-19?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Maradona",
+      "difficulty": "media",
+      "incorrect_answers": ["Pelé", "Messi", "Batistuta"],
+      "question": "¿Qué jugador es famoso por el 'Gol del Siglo' en la Copa del Mundo de 1986?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Brasil",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Argentina", "Italia", "Francia"],
+      "question": "¿Qué país ganó la Copa del Mundo de 2002?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "AC Milan",
+      "difficulty": "media",
+      "incorrect_answers": ["Inter Milan", "Juventus", "Roma"],
+      "question": "¿Qué club italiano ha ganado más títulos de la Liga de Campeones de la UEFA?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Barcelona",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Real Madrid", "Atletico Madrid", "Sevilla"],
+      "question": "¿Qué club ganó la Liga Española en 2018-19?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Cristiano Ronaldo",
+      "difficulty": "media",
+      "incorrect_answers": ["Lionel Messi", "Luis Suárez", "Karim Benzema"],
+      "question": "¿Quién es el máximo goleador en la historia de la selección de Portugal?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Johan Cruyff",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Ruud Gullit", "Marco van Basten", "Frank Rijkaard"],
+      "question": "¿Qué jugador holandés es conocido por la 'Cruyff Turn'?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "2018",
+      "difficulty": "fácil",
+      "incorrect_answers": ["2014", "2010", "2006"],
+      "question": "¿En qué año ganó Francia su segunda Copa del Mundo?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Ronaldinho",
+      "difficulty": "media",
+      "incorrect_answers": ["Rivaldo", "Romario", "Kaka"],
+      "question": "¿Qué jugador brasileño es conocido por su estilo alegre y habilidades en el balón?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Roma",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Lazio", "Inter Milan", "AC Milan"],
+      "question": "¿Qué club italiano tiene el apodo de 'Giallorossi'?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "1994",
+      "difficulty": "fácil",
+      "incorrect_answers": ["1990", "1998", "2002"],
+      "question": "¿En qué año ganó Brasil su cuarta Copa del Mundo?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Zinedine Zidane",
+      "difficulty": "media",
+      "incorrect_answers": ["Thierry Henry", "Patrick Vieira", "David Trezeguet"],
+      "question": "¿Qué jugador francés anotó dos goles en la final de la Copa del Mundo de 1998?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Estadio Maracaná",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Estadio Monumental", "Estadio Azteca", "Estadio Centenario"],
+      "question": "¿En qué estadio se jugó la final de la Copa del Mundo de 1950?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Pelé",
+      "difficulty": "media",
+      "incorrect_answers": ["Maradona", "Zico", "Garrincha"],
+      "question": "¿Qué jugador brasileño es conocido por haber ganado tres Copas del Mundo?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Messi",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Cristiano Ronaldo", "Neymar", "Luis Suárez"],
+      "question": "¿Quién es el máximo goleador histórico del FC Barcelona?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "España",
+      "difficulty": "media",
+      "incorrect_answers": ["Alemania", "Francia", "Italia"],
+      "question": "¿Qué país ganó la Eurocopa en 2008 y 2012?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Estadio Santiago Bernabéu",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Camp Nou", "Old Trafford", "San Siro"],
+      "question": "¿Cuál es el estadio del Real Madrid?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Cruyff",
+      "difficulty": "media",
+      "incorrect_answers": ["Van Basten", "Gullit", "Rijkaard"],
+      "question": "¿Qué jugador holandés es conocido por su habilidad de regate llamada 'La elástica'?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Ronaldo",
+      "difficulty": "fácil",
+      "incorrect_answers": ["Messi", "Neymar", "Ronaldinho"],
+      "question": "¿Qué jugador brasileño anotó el primer gol en la final de la Copa del Mundo de 2002?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "1998",
+      "difficulty": "media",
+      "incorrect_answers": ["1994", "2002", "2006"],
+      "question": "¿En qué año ganó Francia su primera Copa del Mundo?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Michel Platini",
+      "difficulty": "media",
+      "incorrect_answers": ["Zinedine Zidane", "Thierry Henry", "Didier Deschamps"],
+      "question": "¿Qué jugador francés ganó tres veces el Balón de Oro en la década de 1980?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Maradona",
+      "difficulty": "media",
+      "incorrect_answers": ["Messi", "Batistuta", "Riquelme"],
+      "question": "¿Qué jugador argentino anotó dos goles contra Inglaterra en la Copa del Mundo de 1986?",
+      "type": "multiple"
+  },
+  {
+      "category": "Deportes",
+      "correct_answer": "Santos",
+      "difficulty": "media",
+      "incorrect_answers": ["Flamengo", "Corinthians", "São Paulo"],
+      "question": "¿Para qué club jugó Pelé la mayor parte de su carrera?",
+      "type": "multiple"
+  }
+]
+
+  
